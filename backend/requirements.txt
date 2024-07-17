@@ -1,0 +1,14 @@
+pandas
+fastapi
+uvicorn
+sqlmodel
+pydantic-settings
+asyncpg
+duckdb
+fsspec
+gcsfs
+numpy
+pytest
+tensorflow==2.15
+scikit-learn
+python-dotenv
